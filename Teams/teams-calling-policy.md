@@ -108,6 +108,7 @@ Busy on busy when in a call (also called "busy options") lets you configure how 
 - **Enabled** New or incoming calls will be rejected with a busy signal.
 - **Unanswered** The user's unanswered settings will be used, such as routing to voicemail or forwarding to another user.
 - **User controlled** Users can determine their busy options choice from call settings in the Teams app. 
+Note - Enabling the "Busy on Busy" setting to "Unanswered" does not interfere with call queue operation. If a user sets "Busy on Busy" to "Unanswered," the call will be routed to the next user or sent to voicemail, depending on the call queue's configuration.
 
 ### Web PSTN calling
 
